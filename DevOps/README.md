@@ -6,6 +6,7 @@
 - [Getting started - Go](https://go.dev/learn/)
 - [Go tutorial - Tutorials point](https://www.tutorialspoint.com/go/index.htm)
 - [Go tutorial - W3schools](https://www.w3schools.com/go/)
+- [Golang Practice - gobyexample](https://gobyexample.com/)
 - [Learn Go Programming - FreeCodeCamp(Youtube)](https://www.youtube.com/watch?v=YS4e4q9oBaU)
 - [Golang tutorial - TechWorld With Nana(Youtube)](https://www.youtube.com/watch?v=yyUHQIec83I)
 - [Complete Golang tutorial - Hitesh Choudhary(Youtube)](https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa)
